@@ -863,3 +863,14 @@ a {
     display: block;
   }
 }
+.container__item {
+  display: flex;
+  margin: 25px;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  height: 10%;
+}
+li {
+  margin-top: 50px;
+}

@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   hideTabContent();
-  showTabContent();
+  //showTabContent();
 
   tabsParent.addEventListener("click", function (event) {
     const target = event.target;
