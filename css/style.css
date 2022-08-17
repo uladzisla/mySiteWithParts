@@ -874,3 +874,7 @@ a {
 li {
   margin-top: 50px;
 }
+.useDvigateli__flex {
+  display: flex;
+  flex-direction: row;
+}
